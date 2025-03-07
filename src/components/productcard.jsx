@@ -1,5 +1,4 @@
 // write product card here
-import React from "react";
 import Button from "../components/button.jsx";
 
 const Productcard = () => {
